@@ -1,6 +1,6 @@
 <!-- Header Section -->
 <h1 align="center"><font face="Arial">Hi 👋, I'm Sameer Ahmad 
-<h3 align="center"><font face="Arial"><a href="https://www.linkedin.com/in/nasiullha-chaudhari/" target="_blank" rel="noreferrer">Nasi</a> is a passionate DevOps Engineer from India, working on Cloud and DevOps for 3+ years now. Feel free to reach out for any Freelance Projects.</font></h3>
+<h3 align="center"><font face="Arial"><a href="https://www.linkedin.com/in/nasiullha-chaudhari/" target="_blank" rel="noreferrer">Sameer</a>is a passionate Machine Learning and Deep Learning enthusiast from Pakistan, with a keen interest in MLOps, LLMs, and cloud technologies. I'm always eager to explore innovative projects and cutting-edge solutions in the field of ML.</font></h3>
 
 <!-- Schedule a 1-on-1 Call Section -->
 <h3 align="left"><font size="+2" face="Verdana">Schedule a 1-on-1 Call:</font></h3>
