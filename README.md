@@ -10,9 +10,8 @@
 <!-- Languages and Tools Section -->
 <h3 align="left"><font size="+2" face="Verdana">Languages and Tools:</font></h3>
 
-
-- I work on DevOps, Microservices, containers, and everything around it.
-- I’m looking to collaborate on **Cloud-native Projects**
+- I work on MLOps, Microservices, containers, and everything around ML and DL fields.
+-  I’m looking to collaborate on innovative MLOps projects and explore the **latest in machine learning and deep learning.**
 
 
 
