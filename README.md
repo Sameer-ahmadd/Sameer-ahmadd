@@ -1,6 +1,6 @@
 <!-- Header Section -->
 <h1 align="center"><font face="Arial">Hi 👋, I'm Sameer Ahmad 
-<h3 align="center"><font face="Arial"><a href="https://www.linkedin.com/in/nasiullha-chaudhari/" target="_blank" rel="noreferrer">Sameer </a>is a passionate Machine Learning and Deep Learning enthusiast from Pakistan, with a keen interest in MLOps, LLMs, and cloud technologies. I'm always eager to explore innovative projects and cutting-edge solutions in the field of ML thrive on exploring innovative projects and cutting-edge solutions in the field of ML.</font></h3>
+<h3 align="center"><font face="Arial"><a href="https://www.linkedin.com/in/sameer-ahmad-569501227/" target="_blank" rel="noreferrer">Sameer </a>is a passionate Machine Learning and Deep Learning enthusiast from Pakistan, with a keen interest in MLOps, LLMs, and cloud technologies. I'm always eager to explore innovative projects and cutting-edge solutions in the field of ML thrive on exploring innovative projects and cutting-edge solutions in the field of ML.</font></h3>
 
 
 
