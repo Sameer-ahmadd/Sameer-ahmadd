@@ -1,12 +1,6 @@
 <!-- Header Section -->
 <h1 align="center"><font face="Arial">Hi 👋, I'm Sameer Ahmad 
-<h3 align="center"><font face="Arial"><a href="https://www.linkedin.com/in/nasiullha-chaudhari/" target="_blank" rel="noreferrer">Sameer </a>is a passionate Machine Learning and Deep Learning enthusiast from Pakistan, with a keen interest in MLOps, LLMs, and cloud technologies. I'm always eager to explore innovative projects and cutting-edge solutions in the field of ML.</font></h3>
-
-<!-- Schedule a 1-on-1 Call Section -->
-<h3 align="left"><font size="+2" face="Verdana">Schedule a 1-on-1 Call:</font></h3>
-<p align="left">
-  <a href="https://topmate.io/nasiullha_chaudhari" target="_blank" rel="noreferrer"> Book a Call with me! </a>
-</p>
+<h3 align="center"><font face="Arial"><a href="https://www.linkedin.com/in/nasiullha-chaudhari/" target="_blank" rel="noreferrer">Sameer </a>is a passionate Machine Learning and Deep Learning enthusiast from Pakistan, with a keen interest in MLOps, LLMs, and cloud technologies. I'm always eager to explore innovative projects and cutting-edge solutions in the field of MLI thrive on exploring innovative projects and cutting-edge solutions in the field of ML. Currently, I am seeking exciting machine learning internships to further hone my skills and contribute to meaningful projects.</font></h3>
 
 <!-- GIF -->
 <img align="right" height="300" width="500" src="https://raw.githubusercontent.com/mikonoid/mikonoid/main/images/gifs/coder3.gif" />
