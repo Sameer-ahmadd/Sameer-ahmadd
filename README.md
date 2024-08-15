@@ -5,7 +5,7 @@
 
 
 <!-- GIF -->
-<img align="right" height="300" width="700" src="https://raw.githubusercontent.com/mikonoid/mikonoid/main/images/gifs/coder3.gif" />
+<img align="right" height="400" width="500" src="https://raw.githubusercontent.com/mikonoid/mikonoid/main/images/gifs/coder3.gif" />
 
 
 
