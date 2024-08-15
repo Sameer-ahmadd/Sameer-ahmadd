@@ -46,9 +46,9 @@
 <p align="left">
 </p>
 
-- 💬 Ask me about **DevOps**
-- 📫 How to reach me **[cloudchamp44@gmail.com](mailto:cloudchamp44@gmail.com)**
-- ⚡ Fun fact **I create YouTube videos**
+- 💬 Ask me about **ML and MLOps**
+- 📫 How to reach me **[sameerahmad.25900@gmail.com](sameerahmad.25900@gmail.com)**
+- ⚡ Fun fact **I’m currently learning MLOps and working on some really cool ML projects!**
 
 
 
